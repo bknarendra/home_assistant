@@ -1,0 +1,4 @@
+from joke_intent_handler import JokeIntentHandler
+from music_intent_handler import MusicIntentHandler
+from smart_home_intent_handler import SmartHomeIntentHandler
+from weather_intent_handler import WeatherIntentHandler
